@@ -1,4 +1,8 @@
 # **Proyecto U-MATCH** 
+
+![alt text](large-cutout.png)
+#
+
 ## **Integrantes**  
 - Raul Emiliano Aguayo Avila
 - Eduardo Sebastian Calan Canche 
