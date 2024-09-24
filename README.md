@@ -1,6 +1,6 @@
 # **Proyecto U-MATCH** 
 
-![alt text](LOGO-cutout.png)
+![alt text](./DOCUMENTACIÓN/Recuros%20graficos/LOGO-cutout.png)
 
 #
 
@@ -13,7 +13,3 @@ Desarrollar una red social académica que interconecte a los estudiantes de la U
 #
 ## **Usuarios clave** 
 - Estudiantes pertenecientes a cualquier licenciatura y/o facultad integrada a la UMT
-
-
-
-[def]: LOGO.png
