@@ -4,7 +4,7 @@
 
 #
 
-## **Integrantes**  
+## **Desarrolladores**  
 - Raul Emiliano Aguayo Avila
 - Eduardo Sebastian Calan Canche 
 #
