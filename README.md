@@ -1,6 +1,6 @@
 # **Proyecto U-MATCH** 
 
-![alt text.](./DOCUMENTACIÓN/Recursos%20graficos/noname-cutout.png)
+![alt text.](./DOCUMENTACIÓN/Recursos%20graficos/LOGO_UMATCH.png)
 
 #
 
