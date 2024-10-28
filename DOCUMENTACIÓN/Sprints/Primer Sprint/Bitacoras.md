@@ -1,7 +1,7 @@
 # Bitacoras diarias del primer sprint
 
 
-### **Reunion 30/09/2024**
+### **Reunion 30/09/2024:**
 - Se revisó la planificación del sprint y las tareas asignadas. Raul compartió las primeras ideas de las interfaces de registro e inicio de sesión, y Eduardo mencionó los requisitos iniciales para la autenticación.
 
 
