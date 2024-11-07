@@ -23,9 +23,6 @@
 #
 ## Requerimientos No Funcionales refinados
 
-### Seguridad de datos: 
-- Los datos personales de los estudiantes deben estar protegidos y encriptados.
-
 ### Rendimiento: 
 - La plataforma debe ser capaz de soportar una gran cantidad de usuarios simultáneos sin fallar.
 
