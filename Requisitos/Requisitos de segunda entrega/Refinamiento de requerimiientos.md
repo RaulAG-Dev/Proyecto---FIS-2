@@ -34,3 +34,6 @@
 
 ### Optimización para dispositivos móviles: 
 - Aunque es deseable, en la primera fase la plataforma podría ser más funcional para navegadores.
+
+### Integración con servicios en la nube: 
+- Podría facilitar el escalamiento, pero no es necesario en una versión básica inicial.
