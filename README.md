@@ -20,6 +20,7 @@ Entre las funcionalidades principales se incluyen:
 
 U-MATCH se desarrolla con el fin de mejorar el rendimiento académico y fomentar la productividad sin menospreciar la socialización y la cratividad.
 
-
+##
+##
 ## **Publico objetivo** 
 - Estudiantes y docentes pertenecientes a cualquier licenciatura, facultad y sistema integrado a la UADY
