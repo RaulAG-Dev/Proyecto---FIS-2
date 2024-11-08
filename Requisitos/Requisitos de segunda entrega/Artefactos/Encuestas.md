@@ -15,3 +15,5 @@
 ![alt text](<../../../DOCUMENTACIÓN/Recursos graficos/Encuestas/analitica7.jpg>)
 #
 ![alt text](<../../../DOCUMENTACIÓN/Recursos graficos/Encuestas/analitica8.jpg>)
+
+**URL de la encuesta:** *https://forms.gle/VJ44naBEBmhS7zZ87*
