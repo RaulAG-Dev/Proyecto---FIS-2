@@ -1,6 +1,6 @@
 # **U-MATCH** 
 
-![alt text.](./DOCUMENTACIÓN/Recursos%20graficos/LogoUMATCH-white2.1.png)
+![alt text.](./DOCUMENTACIÓN/Recursos%20graficos/Diseño%20del%20proyecto/LogoUMATCH-white2.1.png)
 
 
 

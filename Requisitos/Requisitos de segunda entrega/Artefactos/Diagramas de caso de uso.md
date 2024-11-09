@@ -41,4 +41,4 @@
 - Recordatorios de tareas pendientes.
 - Relaciones:
 
-![alt text.](/DOCUMENTACIÓN/Recursos%20graficos/Caso%20de%20uso%20gene.png)
+![alt text.](/DOCUMENTACIÓN/Recursos%20graficos/Diseño%20del%20proyecto/Caso%20de%20uso%20gene.png)
