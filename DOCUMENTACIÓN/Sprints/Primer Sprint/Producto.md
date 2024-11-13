@@ -7,11 +7,11 @@
 
 ![alt text.](../../Recursos%20graficos/Bosquejos%20de%20interfaz/Inicio.png)
 
-- Se integra una panata de inicio, con el logo y opciones de registro o inicio de sesión
+- Se integra una pantalla de inicio, con el logo y opciones de registro o inicio de sesión.
 
-- Se propone el diseño de la pantalla para el formulario de inicio de sesión
+- Se propone el diseño de la pantalla para el formulario de inicio de sesión.
 
-- Se propone el diseño de la pantalla para el formulario de registro de una cuenta
+- Se propone el diseño de la pantalla para el formulario de registro de una cuenta.
 
 
 ## Diseño de interfaz final
@@ -24,10 +24,3 @@
 
 ![alt text.](../../Recursos%20graficos/Diseño%20de%20interfaz/Registro%202.png)
 
-- Se opta por una primera pantalla que muestre unicamente el logo de la aplicación a modo de bienvenida
-
-- La pantalla de inicio de sesión se mantiene con la estructura inicial, unicmaente con cambios en la distrubición y añadiendo la opción de recuperación de contraseña
-
-- la pantalla de registro de cuenta añade la opción secundaria de registro con una cuenta constituciónal de Microsft, asi como las leyendas de terminos de uso y politica de privacidad 
-
-- Se implementa una pantalla adicional al registro, para la configuración y personalización del usuario
