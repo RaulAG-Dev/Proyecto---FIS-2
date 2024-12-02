@@ -9,8 +9,8 @@ El desarrollo de U-MATCH se ha mantenido con expectativas ideales y es gestionad
 U-MATCH cuenta ahora con un desarrollo mejor estructurado y gestionado, compartiendo el mismo objetivo, pero con un mayor énfasis en el desarrollo del mismo. La metodología empleada, Scrum, nos permite modificar, como fue necesario, las fechas ideales de las entregas de los sprints y evidenciar en bitácoras los avances, acuerdos y cambios que se realizan diariamente durante el desarrollo de U-MATCH.
 
 - Historias de usuario validadas
-- Refinamiento y priorización de requerimientos
+- Refinamiento final y priorización de requerimientos
 - Actualización y mejor desarrollo de artefactos
 - Bitácoras de desarrollo (dailys de Scrum)
 - Actualización de logo
-- Bosquejo y diseño de interfaces 
+- presentacion final de las interfaces de la red social
