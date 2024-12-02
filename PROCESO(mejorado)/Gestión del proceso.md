@@ -1,4 +1,4 @@
-#Gestión de proceso
+# Gestión de proceso
 
 ## Objetivo
 Asegurar el cumplimiento de las tareas del proyecto y mejorar la gestión y coordinación del proceso mediante un monitoreo continuo.
