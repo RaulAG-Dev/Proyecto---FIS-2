@@ -12,3 +12,27 @@ Opciones de personalización de notificaciones.
 - **Rendimiento:** Soporte para una alta cantidad de usuarios simultáneos sin fallos ni lentitud.
 - **Escalabilidad:**  Arquitectura escalable para soportar más usuarios a futuro, Posibilidad de aumentar la capacidad sin grandes cambios.
 - **Optimización Móvil:** Funcionalidad completa en navegadores de escritorio en la fase inicial, Diseño adaptativo para facilitar el uso en dispositivos móviles en fases futuras.
+
+# Listado final de requerimientos 
+- Registro y Autenticación de Usuarios
+- Registro de estudiantes con credenciales universitarias.
+- Inicio de sesión seguro con recuperación de contraseña.
+
+### 2.Aulas Virtuales y Grupos de Estudio
+- Creación y acceso a aulas virtuales para grupos de estudio.
+- Acceso mediante invitaciones o códigos únicos.
+
+### 3.Foros de Discusión
+- Creación y respuesta a hilos clasificados por materias o temas.
+- Moderación con capacidad para reportar publicaciones inapropiadas.
+
+### 4.Videoconferencias
+- Realización de videollamadas grupales para hasta 10 participantes.
+
+ ### 5.Sistema de Tutoría
+- Registro de estudiantes avanzados como tutores.
+- Búsqueda y solicitud de tutorías para estudiantes iniciales.
+- Calificación de tutores tras las sesiones.
+
+ ### 6.Notificaciones Automáticas
+- Alertas sobre nuevos mensajes, eventos programados y actividad relevante.
