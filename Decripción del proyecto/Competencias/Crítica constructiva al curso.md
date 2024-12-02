@@ -1,1 +1,2 @@
-
+# CRITICA CONSTRUCTIVA
+- El maestro demuestra una gran habilidad para impartir la asignatura, presentando los contenidos de manera clara y comprensible en la mayoría de las ocasiones. Sin embargo, en algunos momentos, tiende a proporcionar una cantidad considerable de información en un corto período de tiempo. Esto, aunque demuestra un esfuerzo por cubrir todos los aspectos del tema, puede generar cierta saturación en los estudiantes, lo que en algunos casos llega a ocasionar confusión. Sería beneficioso para el aprendizaje que, en ciertas lecciones, se distribuyera la información de forma más gradual, permitiendo que los estudiantes asimilen adecuadamente los conceptos antes de avanzar a los siguientes temas.
