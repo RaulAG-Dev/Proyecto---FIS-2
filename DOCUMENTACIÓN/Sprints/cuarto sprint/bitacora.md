@@ -1,1 +1,6 @@
-# Historia de usuario 5: Como  moderador quiero poder reportar publicaciones inapropiadas para mantener la calidad del foro
+## REUNION 30/10/24
+- Se establecio
+## REUNION 01/11/24
+-
+##REUNION 03/11/24
+-
