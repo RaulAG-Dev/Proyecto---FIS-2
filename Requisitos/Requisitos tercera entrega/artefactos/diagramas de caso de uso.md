@@ -1,38 +1,50 @@
-# Requerimientos Funcionales
-- **Registro y Autenticación**: Registro e inicio de sesión con credenciales universitarias.
-- **Recuperación de contraseña**: Seguridad en el manejo de credenciales.
-- **Aulas Virtuales y Grupos de Estudio:** Creación de aulas virtuales y grupos de estudio.
-- **Acceso a través de invitación o código de acceso:** Funciones de comunicación en tiempo real (mensajes, archivos).
-- **Foros de Discusión:** Creación de foros por temas o asignaturas, Moderación de contenido y reporte de publicaciones inapropiadas, Suscripción a notificaciones de nuevas publicaciones.
-- **Videoconferencias:** Videollamadas grupales dentro de aulas o grupos, Funciones de compartir pantalla y moderación de participantes.
-- **Sistema de Tutoría:** Conexión entre tutores y estudiantes, Gestión de disponibilidad y solicitud de tutorías, Soporte para tutorías en línea.
-- **Notificaciones Automáticas:** Notificaciones sobre actividades importantes (invitaciones, publicaciones, recordatorios).
-Opciones de personalización de notificaciones.
-# Requerimientos No Funcionales
-- **Rendimiento:** Soporte para una alta cantidad de usuarios simultáneos sin fallos ni lentitud.
-- **Escalabilidad:**  Arquitectura escalable para soportar más usuarios a futuro, Posibilidad de aumentar la capacidad sin grandes cambios.
-- **Optimización Móvil:** Funcionalidad completa en navegadores de escritorio en la fase inicial, Diseño adaptativo para facilitar el uso en dispositivos móviles en fases futuras.
+# Diagrama de casos de uso 
 
-# Listado final de requerimientos 
-- Registro y Autenticación de Usuarios
-- Registro de estudiantes con credenciales universitarias.
-- Inicio de sesión seguro con recuperación de contraseña.
+## Actores
+- **Estudiante**: Usuario principal del sistema que interactúa con las funcionalidades.
+- **Moderador**: Usuario encargado de moderar el contenido en los foros de discusión.
 
-### 2.Aulas Virtuales y Grupos de Estudio
-- Creación y acceso a aulas virtuales para grupos de estudio.
-- Acceso mediante invitaciones o códigos únicos.
+## Casos de Uso
+1. **Registro e inicio de sesión**
+   - **Actor**: Estudiante
+   - **Descripción**: Permite al estudiante registrarse e iniciar sesión usando sus credenciales universitarias y recuperar la contraseña en caso de olvidarla.
+   
+2. **Aulas virtuales y grupos de Estudio**
+   - **Actor**: Estudiante
+   - **Descripción**: Permite al estudiante crear y acceder a aulas virtuales. Los estudiantes pueden unirse a través de invitaciones o códigos de acceso y asignar roles dentro del aula.
 
-### 3.Foros de Discusión
-- Creación y respuesta a hilos clasificados por materias o temas.
-- Moderación con capacidad para reportar publicaciones inapropiadas.
+3. **Foros de discusión**
+   - **Actores**: Estudiante, moderador
+   - **Descripción**: Permite a los estudiantes crear y responder hilos en foros clasificados por materias. Los moderadores pueden reportar publicaciones inapropiadas.
 
-### 4.Videoconferencias
-- Realización de videollamadas grupales para hasta 10 participantes.
+4. **Videollamadas grupales**
+   - **Actor**: Estudiante
+   - **Descripción**: Permite a los estudiantes realizar videollamadas grupales para interacciones en tiempo real.
 
- ### 5.Sistema de Tutoría
-- Registro de estudiantes avanzados como tutores.
-- Búsqueda y solicitud de tutorías para estudiantes iniciales.
-- Calificación de tutores tras las sesiones.
+5. **Sistema de tutoría**
+   - **Actor**: Estudiante
+   - **Descripción**: Facilita la conexión entre estudiantes avanzados (tutores) y estudiantes de cursos iniciales, permitiendo la solicitud de tutorías en diversas materias.
 
- ### 6.Notificaciones Automáticas
-- Alertas sobre nuevos mensajes, eventos programados y actividad relevante.
+6. **Notificaciones automáticas**
+   - **Actor**: Estudiante
+   - **Descripción**: El sistema enviará notificaciones automáticas sobre actividad en los foros, tutorías y otras interacciones académicas.
+
+## Relaciones entre Actores y Casos de Uso
+- **Estudiante**:
+  - Registro e inicio de sesión
+  - Aulas virtuales y grupos de estudio
+  - Foros de discusión
+  - Videollamadas grupales
+  - Sistema de tutoría
+  - Notificaciones automáticas
+
+- **Moderador**:
+  - Foros de discusión
+
+## Relaciones entre casos de sso
+- **Aulas virtuales y grupos de estudio** → **Foros de discusión**: Relación para permitir discusiones dentro de las aulas.
+- **Sistema de tutoría** → **Notificaciones automáticas**: El sistema de tutoría enviará recordatorios y notificaciones automáticas sobre sesiones programadas.
+
+
+
+![alt text.](/DOCUMENTACIÓN/Recursos%20graficos/Diseño%20del%20proyecto/diagrama%caso%de%uso%final.png)
